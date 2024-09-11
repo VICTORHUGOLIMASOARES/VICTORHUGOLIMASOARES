@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VICTORHUGOLIMASOARES
-- 👀 I’m interested in python, system development analysis, Data science.
+- 👀 I’m interested in python, iA, data science.
 - 🌱 I’m currently learning Python, object oriented programming.
 - 💞️ I’m looking to collaborate on i love everything to do with computing and programming i am very interested
 - 📫 How to reach me https://www.linkedin.com/in/victor-soares-35463b272
